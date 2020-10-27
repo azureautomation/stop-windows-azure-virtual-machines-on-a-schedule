@@ -1,0 +1,20 @@
+{
+    "Author": "Windows Azure Product Team Scripts",
+    "ContentSize": 2158,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stop-windows-azure-virtual-machines-on-a-schedule/master/Stop-AzureVMsOnSchedule.ps1",
+    "DownloadCount": 8985,
+    "Id": "Stop-Windows-Azure-Virtual-821896a8",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 224,
+    "RaterCount": 7,
+    "Rating": 4.4,
+    "ReleaseDate": "2013-8-30T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Demonstrates stopping a single Virtual Machine or set of Virtual Machines (using a wildcard pattern) within a Cloud Service.  It does this by creating scheduled tasks to stop the Virtual Machine(s) on a schedule at the time specified.",
+    "Title": "Stop Windows Azure Virtual Machines on a Schedule",
+    "UpdatedDate": "2014-10-16T00:00:00",
+    "Url": "https://github.com/azureautomation/stop-windows-azure-virtual-machines-on-a-schedule",
+    "UserTags": "VM Lifecycle Management"
+}
